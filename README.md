@@ -1,2 +1,3 @@
-# android-issue-reporter
-android-issue-reporter test
+# Android issue reporter
+
+Repositório apenas para abrir issues... diretamente do App.. testando ... 
